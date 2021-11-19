@@ -6,3 +6,8 @@ $ source venv/bin/activate
 
 # install packages
 $pip install opencv
+$pip install numpy
+$pip install scipy
+$pip install pickle 
+$pip install sklearn 
+$pip install skimage
